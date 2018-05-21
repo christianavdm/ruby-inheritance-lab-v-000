@@ -25,7 +25,7 @@ jim.last_name = "Moon"
 
 steve.learn(some_knowledge)
 
-christi = User.new
+christi = Student.new
 christi.learn(some_knowledge)
 
 puts christi.knowledge
