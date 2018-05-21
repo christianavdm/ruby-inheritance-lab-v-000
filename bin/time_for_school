@@ -29,5 +29,4 @@ christi = Student.new
 christi.learn(some_knowledge)
 
 puts christi.knowledge
-puts jim.knowledge 
 puts steve.knowledge 
